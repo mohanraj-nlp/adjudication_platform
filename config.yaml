@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: "adjudication_platform_for_cyberbully_detection"
+  name: "session_cookie"
+credentials:
+  usernames:
+    mohanrj:
+      email: c.mhnraj@gmail.com
+      failed_login_attempts: 0 # Will be managed automatically
+      first_name: Mohan
+      last_name: Raj
+      logged_in: False # Will be managed automatically
+      password: dinesh123 # Will be hashed automatically
+      roles: # Optional
+      - admin
+      - editor
+      - viewer

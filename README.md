@@ -1,1 +1,3 @@
-# adjudication_platform
+# Adjudication Platform
+
+Project: Cyberbully Detection
